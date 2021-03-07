@@ -25,6 +25,5 @@ Many thanks to authors of [AnyNet](https://github.com/mileyan/AnyNet) and [CSPN]
 If you find this is useful, wecome to cite with 
 
 ```
-Gan, W., Wong, P. K., Yu, G., Zhao, R., & Vong, C. M. (2021). 
-Light-weight Network for Real-time Adaptive Stereo Depth Estimation. Neurocomputing.
+Gan, W., Wong, P. K., Yu, G., Zhao, R., & Vong, C. M. (2021). Light-weight Network for Real-time Adaptive Stereo Depth Estimation. Neurocomputing.
 ```
