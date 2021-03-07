@@ -20,9 +20,10 @@ embedded devices such as NVIDIA Jetson TX2.
 
 Many thanks to authors of [AnyNet](https://github.com/mileyan/AnyNet) and [CSPN](https://github.com/XinJCheng/CSPN) for open-sourcing the code.
 
-# Citaton
+# Citation
 
 If you find this is useful, wecome to cite with 
-...
-Gan, Wanshui, et al. "Light-weight Network for Real-time Adaptive Stereo Depth Estimation." Neurocomputing (2021).
-...
+
+```
+Gan, W., Wong, P. K., Yu, G., Zhao, R., & Vong, C. M. (2021). Light-weight Network for Real-time Adaptive Stereo Depth Estimation. Neurocomputing.
+```
