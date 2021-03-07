@@ -16,9 +16,6 @@ alleviates the domain shift problem by online updating the neural network, which
 embedded devices such as NVIDIA Jetson TX2.
 
 
-# Acknowledgement
-
-Many thanks to authors of [AnyNet](https://github.com/mileyan/AnyNet) and [CSPN](https://github.com/XinJCheng/CSPN) for open-sourcing the code.
 
 # Citation
 
@@ -27,3 +24,7 @@ If you find this is useful, wecome to cite with
 ```
 Gan, W., Wong, P. K., Yu, G., Zhao, R., & Vong, C. M. (2021). Light-weight Network for Real-time Adaptive Stereo Depth Estimation. Neurocomputing.
 ```
+
+# Acknowledgement
+
+Many thanks to authors of [AnyNet](https://github.com/mileyan/AnyNet) and [CSPN](https://github.com/XinJCheng/CSPN) for open-sourcing the code.
