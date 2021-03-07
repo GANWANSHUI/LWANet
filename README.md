@@ -1,4 +1,4 @@
 # LWANet
-This repository contains the codes for our paper: "Light-weight Network for Real-time Adaptive Stereo Depth Estimation". 
+This repository contains the codes for our paper: [Light-weight Network for Real-time Adaptive Stereo Depth Estimation](https://www.sciencedirect.com/science/article/pii/S0925231221002599) 
 
 
