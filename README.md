@@ -17,7 +17,7 @@ embedded devices such as NVIDIA Jetson TX2.
 
 # Usage 
 
- To be update
+ To be updated
 
 # Citation
 
